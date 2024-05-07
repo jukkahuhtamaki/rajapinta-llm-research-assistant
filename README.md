@@ -8,7 +8,7 @@ Resources:
 
 Demo:
 * [Session for generating a dataset](https://chat.openai.com/share/de26bf5b-0984-4d96-a388-20ddf93681d3)
-* The generated dataset ("never" share data on Github)
+* [The generated dataset](https://github.com/jukkahuhtamaki/rajapinta-llm-research-assistant/blob/main/data/Synthetic_Reddit_Data_Wide_Form.csv) ("never" share data on Github)
 * [Session for analyzing the dataset](https://chat.openai.com/share/793c6c92-7aa2-4c22-87fd-dd6cca0543fb) (live demo)
 
 The first few prompts. Nothing fancy, just showing that one can indeed start with a very open-ended approach. 
